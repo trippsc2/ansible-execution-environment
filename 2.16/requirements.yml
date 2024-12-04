@@ -21,10 +21,12 @@ collections:
   - name: community.windows
   - name: community.zabbix
   - name: containers.podman
+  - name: davidban77.gns3
   - name: fortinet.fortimanager
   - name: fortinet.fortios
   - name: google.cloud
   - name: microsoft.ad
+  - name: netscaler.adc
   - name: vmware.vmware
   - name: vmware.vmware_rest
   - name: trippsc2.ad
