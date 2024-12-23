@@ -17,7 +17,6 @@ collections:
   - name: community.network
   - name: community.postgresql
   - name: community.vmware
-    version: '<5.0.0'
   - name: community.windows
   - name: community.zabbix
   - name: containers.podman
@@ -28,7 +27,6 @@ collections:
   - name: microsoft.ad
   - name: netscaler.adc
   - name: vmware.vmware
-    version: '<1.7.1'
   - name: vmware.vmware_rest
   - name: trippsc2.ad
   - name: trippsc2.adcs

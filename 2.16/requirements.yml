@@ -28,7 +28,6 @@ collections:
   - name: microsoft.ad
   - name: netscaler.adc
   - name: vmware.vmware
-    version: '<1.7.1'
   - name: vmware.vmware_rest
   - name: trippsc2.ad
   - name: trippsc2.adcs
