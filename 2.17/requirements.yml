@@ -32,11 +32,13 @@ collections:
   - name: trippsc2.adcs
   - name: trippsc2.cis
   - name: trippsc2.citrix
+  - name: trippsc2.dell
   - name: trippsc2.dfs
   - name: trippsc2.duo
   - name: trippsc2.first_steps
   - name: trippsc2.general
   - name: trippsc2.hashi_vault
+  - name: trippsc2.mdt
   - name: trippsc2.mssql
   - name: trippsc2.packer
   - name: trippsc2.postgresql
